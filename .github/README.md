@@ -13,7 +13,7 @@
 <a href="https://github.com/saiboks/Alex/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-<p align="center"><a href="https://t.me/novauibot"><img src="https://files.catbox.moe/kpg088.jpg">
+<p align="center"><a href="https://t.me/novauibot"><img src="https://unitedcamps.in/Images/file_5654.jpg">
 </p>
 
 <h3 align="center">
