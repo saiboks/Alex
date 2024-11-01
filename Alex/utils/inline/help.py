@@ -2,7 +2,7 @@ from typing import Union
 
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from AnonXMusic import app
+from Alex import app
 
 # management inline keyboard button
 def managehelp_pannel(_, START: Union[bool, int] = None):
@@ -93,7 +93,7 @@ from typing import Union
 
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from AnonXMusic import app
+from Alex import app
 
 # music inline keyboard button 
 def help_pannel(_, START: Union[bool, int] = None):
