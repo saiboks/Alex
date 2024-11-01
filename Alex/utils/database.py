@@ -733,4 +733,4 @@ async def get_filters_names(chat_id: int) -> List[str]:
     _filters = []
     for _filter in await _get_filters(chat_id):
         _filters.append(_filter)
-    return _filtersc import userbot
+    return _filters
