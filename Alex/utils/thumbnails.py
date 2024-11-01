@@ -53,7 +53,7 @@ async def get_thumb(videoid):
 
         # Bus bot's name will be written
         draw = ImageDraw.Draw(background)
-        arial = ImageFont.truetype("AnonXMusic/assets/font2.ttf", 30)
+        arial = ImageFont.truetype("Alex/assets/font2.ttf", 30)
         draw.text((1110, 8), unidecode(app.name), fill="white", font=arial)
 
         try:
