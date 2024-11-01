@@ -734,7 +734,7 @@ async def get_filters_names(chat_id: int) -> List[str]:
     for _filter in await _get_filters(chat_id):
         _filters.append(_filter)
     return _filtersc import userbot
-from AnonXMusic.core.mongo import mongodb
+from Alex.core.mongo import mongodb
 
 authdb = mongodb.adminauth
 authuserdb = mongodb.authuser
